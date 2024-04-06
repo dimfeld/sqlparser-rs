@@ -353,6 +353,7 @@ define_keywords!(
     INITIALLY,
     INNER,
     INOUT,
+    INPUT,
     INPUTFORMAT,
     INSENSITIVE,
     INSERT,
